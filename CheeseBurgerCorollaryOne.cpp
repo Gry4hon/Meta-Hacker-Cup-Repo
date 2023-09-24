@@ -1,11 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <thread>
-#include <map>
 
 using std::cout;
 using std::isspace;
-using std::map;
 using std::stoi;
 using std::string;
 using std::thread;
